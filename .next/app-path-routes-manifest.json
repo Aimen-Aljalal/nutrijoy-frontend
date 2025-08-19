@@ -1,15 +1,15 @@
 {
   "/_not-found/page": "/_not-found",
   "/(auth)/login/page": "/login",
-  "/page": "/",
   "/(auth)/signup/page": "/signup",
-  "/admin/users/page": "/admin/users",
+  "/page": "/",
   "/admin/meals/addMeal/page": "/admin/meals/addMeal",
-  "/dashboard/yourhistory/page": "/dashboard/yourhistory",
-  "/admin/page": "/admin",
   "/admin/meals/page": "/admin/meals",
-  "/dashboard/planing/page": "/dashboard/planing",
+  "/admin/stats/page": "/admin/stats",
   "/dashboard/page": "/dashboard",
   "/dashboard/edit/page": "/dashboard/edit",
-  "/admin/stats/page": "/admin/stats"
+  "/dashboard/planing/page": "/dashboard/planing",
+  "/admin/page": "/admin",
+  "/admin/users/page": "/admin/users",
+  "/dashboard/yourhistory/page": "/dashboard/yourhistory"
 }
