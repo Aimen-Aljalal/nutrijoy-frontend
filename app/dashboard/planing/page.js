@@ -206,7 +206,7 @@ export default function MealPlanning() {
     const token = localStorage.getItem("token");
     try {
       const res = await fetch(
-        `hhttps://nutrijoy-backend.onrender.com/api/dailyConsumption/delete/${mealId}`,
+        `https://nutrijoy-backend.onrender.com/api/dailyConsumption/delete/${mealId}`,
         { method: "DELETE", headers: { Authorization: `Bearer ${token}` } }
       );
       if (!res.ok) throw new Error("Failed to delete meal");

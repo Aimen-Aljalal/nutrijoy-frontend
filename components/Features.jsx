@@ -78,9 +78,9 @@ export default function Features() {
         {features.map(({ title, description, icon }, idx) => (
           <div
             key={idx}
-            className="bg-green-50 rounded-lg p-8 text-center shadow hover:shadow-lg transition"
+            className="bg-green-50 rounded-lg p-8 text-center shadow hover:shadow-lg transition flex flex-col items-center"
           >
-            <div className="mx-auto mb-4">{icon}</div>
+            <div className="mb-4">{icon}</div>
             <h3 className="text-xl font-semibold text-green-900 mb-2">{title}</h3>
             <p className="text-green-800">{description}</p>
           </div>

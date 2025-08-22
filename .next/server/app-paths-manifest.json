@@ -1,15 +1,6 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/(auth)/login/page": "app/(auth)/login/page.js",
-  "/(auth)/signup/page": "app/(auth)/signup/page.js",
   "/page": "app/page.js",
-  "/admin/meals/addMeal/page": "app/admin/meals/addMeal/page.js",
-  "/admin/meals/page": "app/admin/meals/page.js",
-  "/admin/stats/page": "app/admin/stats/page.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/edit/page": "app/dashboard/edit/page.js",
-  "/dashboard/planing/page": "app/dashboard/planing/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/admin/users/page": "app/admin/users/page.js",
-  "/dashboard/yourhistory/page": "app/dashboard/yourhistory/page.js"
+  "/dashboard/planing/page": "app/dashboard/planing/page.js"
 }
